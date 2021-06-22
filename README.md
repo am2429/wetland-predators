@@ -1,4 +1,4 @@
-# wetland-predators
+# wetland-predator
 R code for analysis and visualization of data in Moore et al. 2021 - Do predators have a role to play in wetland ecosystem functioning? An experimental study in New England salt marshes
 
 ## Raw data 
